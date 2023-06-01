@@ -1,0 +1,8 @@
+GOAL:
+The goal of the first challenge was to create a server to recieve messages from clients. The server would echo the message back to the original sender. The client would only echo messages back to the sender of that message, and not broadcast it to any other clients.
+
+TECHNOLOGIES USED:
+Python
+
+RESOURCES:
+https://www.geeksforgeeks.org/simple-chat-room-using-python/
